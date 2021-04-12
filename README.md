@@ -13,7 +13,8 @@
 </p>
 
 ### Languages and Tools
-<p align="left">
+<p align="left
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="Jupyter Notebook" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
