@@ -20,9 +20,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="R" height="30" width="40" />
-<img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mathworks.svg" alt="Matlab" height="30" width="40" />
-<img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="Unity" height="30" width="40" />
-  <img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="Android" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mathworks.svg" alt="Matlab" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="Unity" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="Android" height="30" width="40" />
 </p>
  
 ### My GitHub stats 
