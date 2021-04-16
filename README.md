@@ -27,23 +27,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="Android" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="flutter" height="30" width="40" />
 </p>
- 
-### My GitHub stats 
-
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=maulanaakbardj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&count_private=true&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&layout=compact" />
-
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
 -----
 
-Last Edited on: 12/04/2021
+Last Edited on: 16/04/2021
