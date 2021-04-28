@@ -32,8 +32,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=maulanaakbardj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&count_private=true&show_icons=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&layout=compact" />
