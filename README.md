@@ -1,9 +1,9 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Maulana Akbar 
 
-- 👯 I'm happy to collaborate on any ML, DL and data science project
+- 🤝 I'm happy to collaborate on any ML, DL and data science project
+- 🔗 My Linkedin : www.linkedin.com/in/maulanaakbardwijaya
 - 📫 How to reach me: 
      - Personal: maulanaakbardwijaya@gmail.com
-     - School: maulanaakbardwijaya@student.telkomuniversity.ac.id
 
 ### Social media profiles
 <p align="left">
