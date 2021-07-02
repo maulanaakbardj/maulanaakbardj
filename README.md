@@ -10,12 +10,3 @@
 <a href="https://www.linkedin.com/in/maulanaakbardwijaya/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
 </p>
 
-
-### My GitHub stats 
-
-<!--START_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&layout=compact" />
-
-<!--END_SECTION:waka-->
------
