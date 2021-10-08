@@ -3,6 +3,8 @@
 - 📫 How to reach me: 
      - Personal: maulanaakbardwijaya@gmail.com
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=vue)
+
 ### 🔗 Social media profiles
 <p align="left">
 <a href="https://twitter.com/BangAkbar65"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
