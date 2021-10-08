@@ -1,9 +1,9 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Maulana Akbar 
+## Hi 👋
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=vue)
 
 - 📫 How to reach me: 
      - Personal: maulanaakbardwijaya@gmail.com
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=vue)
 
 ### 🔗 Social media profiles
 <p align="left">
