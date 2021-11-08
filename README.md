@@ -1,4 +1,4 @@
-## Hi there, I'm Maulana Akbar 👋 
+## Hi there, I'm Maulana Akbar 👋 t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=vue)
 
 - 📫 How to reach me: 
