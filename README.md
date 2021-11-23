@@ -16,7 +16,7 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![maulanaakbardj snake gif](https://github.com/maulanaakbardj/maulanaakbardj/blob/output/github-contribution-grid-snake.svg)
 
-### Statistical 📊
+### 📈 Statistical 📊
 
 ![`maulanaakbardj`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 
