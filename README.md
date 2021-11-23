@@ -11,13 +11,15 @@
 <a href="https://www.facebook.com/maulanaakbardj/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
 </p>
 
-### 👀 Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![maulanaakbardj snake gif](https://github.com/maulanaakbardj/maulanaakbardj/blob/output/github-contribution-grid-snake.svg)
-
 ### 📈 Statistical 📊
 
 ![`maulanaakbardj`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 
 ![`maulanaakbardje@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
+
+### 👀 Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![maulanaakbardj snake gif](https://github.com/maulanaakbardj/maulanaakbardj/blob/output/github-contribution-grid-snake.svg)
+
+
