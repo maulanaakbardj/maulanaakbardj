@@ -22,5 +22,3 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![maulanaakbardj snake gif](https://github.com/maulanaakbardj/maulanaakbardj/blob/output/github-contribution-grid-snake.svg)
 
-
-test
