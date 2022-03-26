@@ -1,5 +1,5 @@
 ## Hi there, I'm Maulana Akbar 👋  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=nord_dark)
 
 - 📫 How to reach me: 
      - Personal: maulanaakbardwijaya@gmail.com
