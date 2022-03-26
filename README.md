@@ -12,9 +12,6 @@
 </p>
 
 ### 📈 Statistical 📊
-
-![`maulanaakbardje@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en" alt="dwnatwick" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaakbardj&theme=algolia&" alt="dwnatwick" /></p>
