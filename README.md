@@ -13,7 +13,7 @@
 
 ### 📈 Statistical 📊
 
-![`maulanaakbardje@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)![`maulanaakbardj`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+![`maulanaakbardje@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en" alt="dwnatwick" /></p>
 
