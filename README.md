@@ -16,5 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaakbardj&theme=algolia&" alt="dwnatwick" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj)](https://github.com/maulanaakbardj/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en&layout=compact" alt="dwnatwick" /></p>
 
