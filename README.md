@@ -21,4 +21,4 @@
 <a href="https://github.com/maulanaakbardj/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maulanaakbardj&bg_color=000000&color=00bfff&line=799e4c&point=e0ecf0&area=true&hide_border=true" /></a>
 
 </div>
-![maulanaakbardj GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/maulanaakbardj/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/maulanaakbardj/github-readme-stats) 
