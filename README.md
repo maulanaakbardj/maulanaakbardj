@@ -13,7 +13,7 @@
 
 ### 📈 Statistical 📊
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/maulanaakbardj/github-readme-stats)
+<img align="center" [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/maulanaakbardj/github-readme-stats) />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en" alt="maulanaakbardj" />
 
