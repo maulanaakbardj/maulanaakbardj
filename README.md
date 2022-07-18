@@ -12,15 +12,10 @@
 </p>
 
 ### 📈 Statistical 📊
-<div align="center">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en" alt="maulanaakbardj" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaakbardj&theme=algolia&" alt="maulanaakbardj" />
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)   
 
-<a href="https://github.com/maulanaakbardj/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maulanaakbardj&bg_color=000000&color=00bfff&line=799e4c&point=e0ecf0&area=true&hide_border=true" /></a>
-
-</div>
 
