@@ -1,5 +1,7 @@
-## Hi there, I'm Maulana Akbar 👋  
+## Hi there, I'm Maulana Akbar 👋
+<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=github_dark)
+</div>
 
 - 📫 How to reach me: 
      - Personal: maulanaakbardwijaya@gmail.com
@@ -19,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/maulanaakbardj/github-readme-stats)
 
-<a href="https://github.com/maulanaakbardj/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/maulanaakbardj/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maulanaakbardj&theme=algolia&hide_border=true" /></a>
 
 </div>
 
