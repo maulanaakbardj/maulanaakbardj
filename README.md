@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/maulanaakbardj/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
 </p>
 
-### 📈 Statistical 📊
+### 📈 Statistics 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en" alt="maulanaakbardj" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaakbardj&theme=algolia&" alt="maulanaakbardj" />
