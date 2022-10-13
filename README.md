@@ -17,7 +17,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaakbardj&theme=algolia&show_icons=true&locale=en" alt="maulanaakbardj" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaakbardj&theme=algolia&" alt="maulanaakbardj" />
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaakbardj&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)   
+  
 
 
