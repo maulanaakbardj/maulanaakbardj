@@ -1,4 +1,4 @@
-## Hi there, I'm Maulana Akbar 👋 
+## Hi there, I'm Maulana Akbar 
 [![@maulanaakbardj's Holopin board](https://holopin.io/api/user/board?user=maulanaakbardj)](https://holopin.io/@maulanaakbardj)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=github_dark)
