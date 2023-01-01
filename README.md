@@ -1,8 +1,6 @@
 ## Hi there, I'm Maulana Akbar 
 [![@maulanaakbardj's Holopin board](https://holopin.io/api/user/board?user=maulanaakbardj)](https://holopin.io/@maulanaakbardj)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=github_dark)
-
 ### 🔗 Connect with me
 <p align="left">
 <a href="mailto:maulanaakbardwijaya@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>  
@@ -15,5 +13,5 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaakbardj&theme=algolia&" alt="maulanaakbardj" />
   
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulanaakbardj&theme=github_dark)
 
