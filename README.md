@@ -5,7 +5,7 @@
 
 ### 🔗 Social media profiles
 <p align="left">
-<a href="maulanaakbardwijaya@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Twitter profile" height="30" width="40" /></a>  
+<a href="mailto:maulanaakbardwijaya@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>  
 <a href="https://twitter.com/BangAkbar65"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/maulanaakbardj/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
 </p>
