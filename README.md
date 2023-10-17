@@ -1,5 +1,5 @@
 ## Hi there, I'm Maulana Akbar Dwijaya
-[![@maulanaakbardj's Holopin board](https://holopin.io/api/user/board?user=maulanaakbardj)](https://holopin.io/@maulanaakbardj)
+[![An image of @maulanaakbardj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maulanaakbardj)](https://holopin.io/@maulanaakbardj)
 
 ### 🔗 Connect with me
 <p align="left">
