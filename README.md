@@ -3,7 +3,7 @@
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="mailto:maulanaakbardwijaya@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>  
+<a href="mailto:maulcenter123@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/maulanaakbardwijaya/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Facebook profile" height="30" width="40" /></a>
 </p>
 
